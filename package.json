@@ -1,0 +1,18 @@
+{
+  "name": "converter",
+  "version": "0.1.0",
+  "description": "Auto convert component to this organization with some rules.",
+  "private": true,
+  "scripts":{
+    "start":"node --harmony .convert/convert"
+  },
+  "dependencies": {
+    "co": "~3.0.6",
+    "write-to": "~1.1.1",
+    "graceful-fs": "~3.0.2",
+    "cogent": "~0.4.3",
+    "rimraf": "~2.2.8",
+    "decompress": "~0.2.3",
+    "mkdirp": "~0.5.0"
+  }
+}

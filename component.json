@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "name": "fastclick",
+  "repo": "ddxq-components/fastclick",
+  "keywords": [
+    "fastclick"
+  ],
+  "description": "convert from [ftlabs/fastclick]",
+  "main": "fastclick.js"
+}
