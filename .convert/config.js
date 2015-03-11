@@ -4,7 +4,7 @@ var path = require('path');
 
 module.exports = {
   orgiRepo: 'ftlabs/fastclick',
-  ref: 'v1.0.2',
+  ref: 'v1.0.3',
   target: path.resolve(__dirname, '..'),
 
   name: 'fastclick',
